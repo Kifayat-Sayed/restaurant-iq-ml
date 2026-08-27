@@ -1,6 +1,7 @@
 # 🍽️ RestaurantIQ
 
 ### End-to-End Machine Learning for Restaurant Intelligence
+### Restaurant Intelligence : Rating Prediction, Personalized Recommendation & Cuisine Classification
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)](https://www.python.org/)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-ML-orange?logo=scikit-learn)](https://scikit-learn.org/)
